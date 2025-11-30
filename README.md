@@ -34,27 +34,6 @@ A comprehensive stock analysis and forecasting web application built with Stream
 - Python 3.8 or higher
 - pip package manager
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/PRANAV0494/Stock_Project.git
-   cd Stock_Project
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:8501`
-
 ## 📁 Project Structure
 
 ```
@@ -219,12 +198,6 @@ flake8
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Pranav Maheshwari**
-- **GitHub**: [@PRANAV0494](https://github.com/PRANAV0494)
-- **LinkedIn**: [Pranav Maheshwari](https://www.linkedin.com/in/pranav-maheshwari-b76894187/)
-- **Email**: pranavm494@gmail.com
 
 ## 🙏 Acknowledgments
 
